@@ -1,6 +1,6 @@
 # provider_with_mobx
 
-A new Flutter package project.
+Provider with mobx plugin
 
 ## Getting Started
 
