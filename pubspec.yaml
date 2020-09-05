@@ -1,7 +1,7 @@
 name: provider_with_mobx
 description: Gives providing mobx store with provider.
 version: 0.0.1
-author: Ha Jae
+author: HaJae <yshajae@postech.ac.kr>
 homepage: https://rntlqvnf.github.io/
 repository: https://github.com/rntlqvnf/provider_with_mobx
 
@@ -12,7 +12,13 @@ dependencies:
   flutter:
     sdk: flutter
 
+  mobx: ^1.2.1+2
+  provider: ^4.3.2+1
+  flutter_mobx: ^1.1.0+2
+
 dev_dependencies:
+  build_runner:
+  mobx_codegen:
   flutter_test:
     sdk: flutter
 
